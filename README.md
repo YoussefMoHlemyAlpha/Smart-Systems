@@ -1,1 +1,2 @@
-# Smart-Systems
+# Smart System Project 
+## My Project simulates a simple ecosystem with different types of organisms, represented by cells in a grid. The organisms include Alpha, Beta, and Gamma, each with specific characteristics and behaviors. They tried to survive by food . The simulation is based on a set of rules governing the interactions among these organisms, and it visualizes the evolution of the ecosystem over multiple generations using Matplotlib library.
